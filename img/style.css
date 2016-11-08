@@ -1,0 +1,106 @@
+@import "https://fonts.googleapis.com/css?family=Armata|Inconsolata";
+
+body {
+    background-image: url(img/backgroung-image.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Armata', sans-serif;
+    font-size: 20px;
+	line-height: 2;
+	color: #FFFFFF;
+	font-weight: normal;
+    margin: 0px;
+    position: relative;
+    
+}
+h1 {
+	font-size: 48px;
+	line-height: 1.5;
+	font-family: font-family: 'Inconsolata', monospace;
+	color: #FFFFFF;
+	font-weight: normal;
+    text-align: center;
+}
+h2 {
+    font-size: 38px;
+	line-height: 1.5;
+	font-family: font-family: 'Inconsolata', monospace;
+	color: #EEE750;
+	font-weight: normal;
+    text-align: center;
+    
+}
+.web--design {
+    color:#eee750;
+}
+.center {
+   max-width: 630px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.CV {
+    font-size: 15px;
+	font-family:'Inconsolata', monospace; 
+	
+    text-align: center;
+   
+    
+}
+.reseaux {
+    margin: auto;
+    
+    vertical-align: middle;
+    text-align: center;
+    list-style: none;
+    
+}
+.logo {
+    display: inline-block;
+    margin: 20px;
+    vertical-align: middle;
+}
+
+
+.ligne {
+    border-bottom:2px solid #FFFFFF;
+    width: 290px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.my--cv {
+    text-decoration: none;
+    color: #eee750;
+}
+.footer {
+    background-color:#eee750;
+    padding: 20px;
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    right:0px; 
+    font-family: 'Inconsolata', monospace;
+    font-size: 17px;
+    
+    
+}
+.container{
+	max-width: 1440px;
+    width: 100%;
+	margin: 0 auto;  
+    color:#FFFFFF;
+   
+     
+}
+.fr {
+    float: right;
+    cursor: pointer;
+   
+}
+.lien {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.wrapper {
+    position: relative;
+}
